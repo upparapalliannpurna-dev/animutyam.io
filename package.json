@@ -1,0 +1,10 @@
+{
+  "name": "animutyam",
+  "version": "1.0.0",
+  "description": "animutyam - Student Result & Attendance Companion",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
